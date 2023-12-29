@@ -14,4 +14,4 @@ app.include_router(events.router)
 
 @app.get("/")
 async def home():
-    return {"hello ": "world222"}
+    return {"hello ": "world222222"}
